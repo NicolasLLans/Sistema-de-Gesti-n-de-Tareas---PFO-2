@@ -1,0 +1,46 @@
+title: "Sistema de Gestión de Tareas - PFO 2"
+description: "API REST con Flask, SQLite y autenticación segura para gestión de tareas"
+baseurl: ""
+url: "https://tu-usuario.github.io"
+
+# Theme
+theme: minima
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - README.md
+
+# Exclude files from processing
+exclude:
+  - servidor.py
+  - cliente.py
+  - test_api.py
+  - requirements.txt
+  - tareas.db
+  - venv/
+  - __pycache__/
+  - "*.pyc"
+
+# Include files
+include:
+  - screenshots/
+
+# Social links
+github_username: tu-usuario
+
+# SEO
+lang: es
+author: "Tu Nombre"
+
+# Google Analytics (opcional)
+# google_analytics: UA-XXXXXXXX-X

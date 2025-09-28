@@ -234,7 +234,8 @@ CREATE TABLE tareas (
 - 🔒 **Integridad**: Constraints para evitar duplicados
 
 ## 📸 Capturas de Pantalla
-
+![Panel del Servidor](image.png)
+![Autenticación](image-1.png)
 ### 1. Página de Inicio
 ![Página de inicio del sistema mostrando los endpoints disponibles]
 
