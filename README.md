@@ -36,7 +36,7 @@ sistema-gestion-tareas/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-gestion-tareas.git
+git clone https://github.com/NicolasLLans/Sistema-de-Gesti-n-de-Tareas---PFO-2
 cd sistema-gestion-tareas
 ```
 
